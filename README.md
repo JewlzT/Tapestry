@@ -1,6 +1,8 @@
 # Tapestry
-Julianne Tomlinson (mobile development) and Beatriz Quintana (UI/UX)
 Inspired by 2024 ShellHacks Hackathon
+
+# Group Members
+Julianne Tomlinson (mobile development) and Beatriz Quintana (UI/UX)
 
 # Purpose
 
