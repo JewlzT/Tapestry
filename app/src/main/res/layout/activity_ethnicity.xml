@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ethnicity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="center">
+
+    <TextView
+        android:textSize="40sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ethnicity/Nationality"/>
+
+    <CheckBox
+        android:id="@+id/eth_african_american"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/african_american"/>
+
+    <CheckBox
+        android:id="@+id/eth_chinese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chinese"/>
+    <CheckBox
+        android:id="@+id/eth_cuban"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cuban"/>
+    <CheckBox
+        android:id="@+id/eth_indian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/indian"/>
+    <CheckBox
+        android:id="@+id/eth_puerto_rican"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/puerto_rican"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_button"
+        android:id="@+id/next_button_interests">
+    </Button>
+
+</LinearLayout>
