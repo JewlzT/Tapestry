@@ -8,3 +8,10 @@ Julianne Tomlinson (mobile development) and Beatriz Quintana (UI/UX)
 
 # Requirements
 For this code to work as intended, please install the following:
+
+## Required Dependencies:
+`npm install @react-navigation/native`
+
+`npm install @react-navigation/stack`
+
+`npm install react-native-screens react-native-safe-area-context`
