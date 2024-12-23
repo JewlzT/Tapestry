@@ -15,3 +15,5 @@ For this code to work as intended, please install the following:
 `npm install @react-navigation/stack`
 
 `npm install react-native-screens react-native-safe-area-context`
+
+`npm install react-native-progress`
